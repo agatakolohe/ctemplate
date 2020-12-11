@@ -1,7 +1,8 @@
 namespace ProjectName
 {
-  public class ClassName
-  {
-    // properties, constructors, methods, etc. go here
-  }
+    public class ClassName
+    {
+        // properties, constructors, methods, etc. go here
+
+    }
 }
