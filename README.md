@@ -1,5 +1,11 @@
 # Application Name
 
+<div align="center">
+<img src="https://github.com/agatakolohe.png" width="200px" height="auto" >
+</div>
+<p align="center">Authored by Agata Kolodziej</p>
+<p align="center">Updated on: 10.Dec.2020</p>
+
 #### Description of application, date-2020
 
 #### By Agata Kolodziej
